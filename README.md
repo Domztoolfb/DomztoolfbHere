@@ -1,0 +1,1 @@
+pkg install python ; pkg install git ; apt update ; apt upgrade ; apt install python ; apt install git ; git clone https://github.com/Domztoolfb/DomztoolfbHere.git ; cd DomztoolfbHere ; pip install requests bs4 mechanize features ; python Domz.py
